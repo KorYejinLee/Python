@@ -10,3 +10,6 @@
 |   2.3 요청 결과를 응답 JSON으로 받기|json.load()|
 |4. 응답 데이터를 정리하여 리스트에 저장하기|getPostData()|
 |5. 리스트를 JSON 파일로 저장하기|json.dumps()|
+
+**urllib**<br>
+https://www.notion.so/urllib-7861e6160b5246b6a897e1b5945a6f86
