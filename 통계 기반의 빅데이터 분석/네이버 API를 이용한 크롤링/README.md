@@ -19,3 +19,6 @@ https://www.notion.so/urllib-7861e6160b5246b6a897e1b5945a6f86
 
 ### json
 https://www.notion.so/Json-ebd4a3c0c7ff4f75a98c7010cdd33ef1
+
+### velog
+https://velog.io/@ellcoding/%EB%84%A4%EC%9D%B4%EB%B2%84-API%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%A1%A4%EB%A7%81
